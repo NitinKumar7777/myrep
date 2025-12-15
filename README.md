@@ -1,4 +1,4 @@
 # myrep
 This is my first git repository
 <br>
-By Nitin Kumar
+By Nitin Zero
